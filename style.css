@@ -26,7 +26,7 @@ h4{
 }
 
 .col-md-6{
-    ext-align: -webkit-match-parent;
+    text-align: -webkit-match-parent;
     margin-top: 151px;
     background-color: #0000005c;
     box-sizing: inherit;
