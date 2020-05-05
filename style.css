@@ -1,34 +1,48 @@
- body
-{
-background-color: #CCC ;
-} 
+ body{
+      background-image: url(https://images.unsplash.com/photo-1526738549149-8e07eca6c147?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80);
+      background-attachment: fixed;
+      background-position: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
 
-
-#About{
-    margin-top: 0px;
-    border-top-width: 0px;
-    padding: 202px;
-}
-
-img{
-    padding-left: 49px;
-    margin-bottom: 120px;
-}
-
-.col{
+    .col{
     padding-left: 0px;
     padding-right: 0px;
     height: 1000px;
-
-}
-h2{
-    margin-bottom: 25px;
-    padding-left: 70px;
-    color: darkturquoise;
 }
 
-@include media-breakpoint-up(sm) {
-    .custom-class {
-      display: block;
-    }
-  }
+.About{
+    background-color: black;
+    opacity: 1;
+}
+
+h1{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-md-6{
+    ext-align: -webkit-match-parent;
+    margin-top: 151px;
+    background-color: #0000005c;
+    box-sizing: inherit;
+}
+
+.col-md-8{
+    background-color: rgba(0, 0, 0, 0.68);
+    
+}
+
+
+
+
+
+
+
+
+
+    
