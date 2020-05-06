@@ -84,28 +84,28 @@ h2 {
 
   }
   
-  /* Clear floats after rows */ 
+  
   .row:after {
     content: "";
     display: table;
     clear: both;
   }
   
-  /* Content */
+  
   .content {
     background-color: rgba(19, 18, 18, 0.714);
     padding: 11px;
     
   }
   
-  /* Responsive layout - makes a two column-layout instead of four columns */
+  
   @media screen and (max-width: 900px) {
     .column {
       width: 50%;
     }
   }
   
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  
   @media screen and (max-width: 600px) {
     .column {
       width: 100%;
