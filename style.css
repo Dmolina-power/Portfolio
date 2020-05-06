@@ -1,13 +1,13 @@
- body{
+  body{
       background-image: url(https://images.unsplash.com/photo-1526738549149-8e07eca6c147?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80);
       background-attachment: fixed;
       background-position: fixed;
       background-repeat: no-repeat;
       background-size: cover;
-    }
+    } 
 
 img{
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
     .col{
@@ -70,13 +70,13 @@ h2 {
     margin: 8px -16px;
   }
   
-  /* Add padding BETWEEN each column */
+  
   .row,
   .row > .column {
     padding: 10px;
   }
   
-  /* Create four equal columns that floats next to each other */
+  
   .column {
     float: left;
     width: 25%;
