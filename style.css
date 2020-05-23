@@ -97,6 +97,11 @@ h2 {
     padding: 11px;
     
   }
+
+  p{
+    text-align: center;
+    color: white;
+  }
   
   
   @media screen and (max-width: 900px) {
