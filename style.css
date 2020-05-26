@@ -100,7 +100,7 @@ h2 {
 
   p{
     text-align: center;
-    color: white;
+    color: red;
   }
   
   
@@ -118,6 +118,9 @@ h2 {
     
   }
 
+  h3{
+    color: red;
+  }
 
 
 
