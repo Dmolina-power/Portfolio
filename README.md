@@ -1,5 +1,4 @@
-Here's my portfolio page! All done using just HTML, and CSS. links work for About Me, and Contact page.
-will be adding on to it as i progress with more skills and knowledge and keep updating periodically as needed.
+
  
 ![GitHub followers](https://img.shields.io/github/followers/dmolina-power) 
   ![GitHub repo size](https://img.shields.io/github/repo-size/dmolina-power/Portfolio) 
@@ -30,7 +29,7 @@ will be adding on to it as i progress with more skills and knowledge and keep up
 
  ## Usage
  
- 
+
  ## test
  none
 
