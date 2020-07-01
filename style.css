@@ -1,0 +1,46 @@
+.parallax-container {
+    height: 500px;
+  }
+
+  h2 {
+    font-size: 4rem;
+    line-height: 110%;
+    margin: 2.3733333333rem 0 1.424rem 0;
+    text-align: center;
+  }
+
+  .grey-text.text-darken-3 {
+    color: #424242 !important;
+    font-size: x-large;
+}
+
+  .links{
+      font-size: large;
+      font-weight: bold;
+  }
+
+  .portfolio-tag{
+      text-align: center;
+      font-weight: bold;
+  }
+
+  .header-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .card .card-image .card-title {
+    color: black;
+    position: absolute;
+    
+    bottom: -27px;
+    left: 10px;
+    max-width: 100%;
+    padding: 0px;
+}
+
+.page-footer{
+    background-color: white;
+}
+
